@@ -57,4 +57,4 @@ while True:
     if opcion == "3":
         propietario =  (input("Igrese propietario a editar"))
 
-   
+   Woa
